@@ -23,7 +23,9 @@ Additional course material and reading assignments will be provided via instruct
 ## Grading
 - Attendance: 10%
 - Quizzes: 20%
-- Assignments: 50%
+- Assignments: 30%
+- Midterm Exam: 10%
+- Final Exam: 10%
 - Projects: 20%
 
 ## Additional Information
