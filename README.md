@@ -32,8 +32,5 @@ Additional course material and reading assignments will be provided via instruct
 - Course materials will be available on the class webpage.
 - Pre-class assignments (reading and coding) are required to prepare for the lectures. Failure to complete these may result in a lower participation grade.
 
-## License
-Include information about the licensing for your course material here, if applicable.
-
 ## Contact
 For more information or inquiries about the course, please contact Prof. Hyunglok Kim at hyunglokkim@gist.ac.kr.
