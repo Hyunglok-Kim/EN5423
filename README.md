@@ -36,4 +36,4 @@ Additional course material and reading assignments will be provided via instruct
 Include information about the licensing for your course material here, if applicable.
 
 ## Contact
-For more information or inquiries about the course, please contact [Your Name] at [your email].
+For more information or inquiries about the course, please contact Prof. Hyunglok Kim at hyunglokkim@gist.ac.kr.
