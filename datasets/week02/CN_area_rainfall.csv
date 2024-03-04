@@ -1,0 +1,10 @@
+﻿Basin #,Land Cover Type,Basin Size (km^2),Rainfall (kg/day/m^2)
+1,Urban,5,100
+2,Urban,7,100
+3,Urban,7,100
+4,Agriculutral,6,100
+5,Agriculutral,2,100
+6,Forest,8,100
+7,Agriculutral,3,100
+8,Forest,5,100
+9,Agriculutral,3,100
